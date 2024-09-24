@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SOLIDPViewController.swift
 //  SwiftLearnByExamples
 //
 //  Created by Pavan More on 24/09/24.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SOLIDPViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
